@@ -1,2 +1,1 @@
-Work 1 day | Rest 3 weeks
- file:///home/brandon/repos/odin-landing-page/images/penwin.gif
+![image](https://user-images.githubusercontent.com/80095922/173207464-434fbdb1-e1aa-4726-a855-33cac12a4182.png)
